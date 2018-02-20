@@ -12,5 +12,4 @@ contract maxUintContract {
     maxUint = (2**256 - 1);
 
     }
-    
 }
